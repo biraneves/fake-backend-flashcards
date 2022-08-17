@@ -1,0 +1,54 @@
+{
+    "flashcards": [
+        {
+            "id": "2004923d-5bc6-4981-8258-02f96d7da1c6",
+            "title": "Componente React",
+            "description": "Representa código reutilizável pelo React. Em regra, deve começar com letra maiúscula. Pode ser customizável através de props"
+        },
+        {
+            "id": "5b7a77c2-eec1-45ab-97e6-16e374d5cb53",
+            "title": "Efeitos colaterais",
+            "description": "Também conhecido como 'side effects'. Representa tudo o que o React não controla diretamente. Bons exemplos são a manipulação manual do DOM e requisições HTTP."
+        },
+        {
+            "id": "2dc7ab47-238c-4a6f-be6b-3a11b33db7c0",
+            "title": "Estado",
+            "description": "Também conhecido como 'state'. Pode ser representando por 'dados que mudam com o tempo' e que também podem ser manipulados pelos usuários, geralmente através de formulários, e também por API's, outros componentes, etc."
+        },
+        {
+            "id": "0633c6d5-d6e8-4a03-a639-0758778d3a94",
+            "title": "Function Components",
+            "description": "Componentes baseados em função. São amplamente utilizados atualmente em detrimento às Class Components, que aos poucos podem se tornar obsoletas."
+        },
+        {
+            "id": "bbcd28f2-a155-4ce7-8aa3-447c78777ff2",
+            "title": "Hooks",
+            "description": "Estruturas que são acopladas às funções para aumentar o poder de componentes React. Podem permitir a utilização de estado e gerenciamento de efeitos colaterais, por exemplo."
+        },
+        {
+            "id": "93e57c10-93b3-4a60-a672-8d7b8175bfca",
+            "title": "JSX",
+            "description": "JavaScript and XML. Linguagem de marcação que pode ser utilizada para a criação de componentes React de forma mais declarativa. É bem semelhante ao HTML."
+        },
+        {
+            "id": "2f99cb5d-135c-4692-8c94-3bb79115958a",
+            "title": "React",
+            "description": "Biblioteca criada pelo Facebook para renderização otimizada. Pode ser utilizada em diversas plataformas como web, mobile e Realidade Virtual."
+        },
+        {
+            "id": "ecbb602b-d117-4738-8065-fd6f9d986b34",
+            "title": "useEffect",
+            "description": "Hook nativo do React para lidar com efeitos colaterais."
+        },
+        {
+            "id": "d8f69bb7-ab80-442c-9920-6ce959b89cd2",
+            "title": "useState",
+            "description": "Hook nativo do React que permite o gerenciamento de estado da aplicação e de componentes."
+        },
+        {
+            "id": "4ec31053-0a09-4c01-9923-01d22280c8d5",
+            "title": "Virtual DOM",
+            "description": "Estrutura utilizada pelo React para manipulação do DOM em memória. Permite a atualização do DOM real somente onde necessário, o que pode garantir uma melhor performance da aplicação."
+        }
+    ]
+}
